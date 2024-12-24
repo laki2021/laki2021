@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach 
-  <br>BUZZ</br>
+  BUZZ
 
 <!---
 laki2021/laki2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
